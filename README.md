@@ -1,5 +1,4 @@
-# Portfolio-Project-1
-U.S. Medical Insurance Costs (Portfolio Project)
+# Portfolio-Project-1:  U.S. Medical Insurance Costs
 
 ## Scope
 
@@ -24,3 +23,6 @@ I will need to convert the BMI column from a string into an integer inorder to S
 * Number of patients by smoker status
 * Average Yearly Medical Insurance Charges by BMI and by Sex
 * Average Yearly Medical Insurance Charges by BMI
+
+## In the end...
+I ended up taking four passes through the data.  First I used MS Excel and pivot tables to orient myself.  Next I used a simple dictionary, followed by using pandas, and finally I used class to organize methods. I learned alot.
